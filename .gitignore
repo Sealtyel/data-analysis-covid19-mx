@@ -2,3 +2,5 @@ data/
 zip files/
 newest/
 .DS_Store
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
